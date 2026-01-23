@@ -100,19 +100,19 @@ Repository Setup
 Links to an external site.
 
     Fork the course repository:
-        Visit: https://github.com/DREAMS-lab/RAS-SES-598-Space-Robotics-and-AI Links to an external site.
+        Visit: [https://github.com/DREAMS-lab/RAS-SES-598-Space-Robotics-and-AI](https://github.com/DREAMS-lab/ses598-space-robotics-and-ai-2026/) Links to an external site.
         Click "Fork" in the top-right corner
         Select your GitHub account as the destination
 
     Clone your fork (outside of ros2_ws):
 
 cd ~/
-git clone https://github.com/YOUR_USERNAME/RAS-SES-598-Space-Robotics-and-AI.git
+git clone https://github.com/DREAMS-lab/ses598-space-robotics-and-ai-2026/
 
     Create a symlink to the assignment in your ROS2 workspace:
 
 cd ~/ros2_ws/src
-ln -s ~/RAS-SES-598-Space-Robotics-and-AI/assignments/first_order_boustrophedon_navigator .
+ln -s ~/ses598-space-robotics-and-ai-2026/assignments/first_order_boustrophedon_navigator .
 
 Building and Running
 Links to an external site.
