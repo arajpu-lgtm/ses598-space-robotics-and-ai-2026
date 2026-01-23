@@ -6,14 +6,12 @@ This ROS2 package implements an autonomous drone system for geological feature d
 
 <img width="1195" height="1020" alt="image" src="https://github.com/user-attachments/assets/6e3d9610-a63a-4949-88a1-a14166a9ed50" />
 
-Students will develop a controller for a PX4-powered drone to efficiently search, map, and analyze cylindrical rock formations in an unknown environment. The drone must identify two rock formations (10m and 7m tall cylinders), estimate their dimensions, and successfully land on top of the taller cylinder.
+Students will develop a controller for a PX4-powered drone to efficiently search, map, and analyze 3D objects in an unknown environment. The drone must map the Perseverance rover, and land on it.
 
 ### Mission Objectives
-1. Search and locate all cylindrical rock formations
-2. Map and analyze rock dimensions:
-   - Estimate height and diameter of each cylinder
-   - Determine positions in the world frame
-3. Land safely on top of the taller cylinder
+1. Search and locate the rover
+2. Map the rover in 3D
+3. Land safely on top of the rover
 4. Complete mission while logging time and energy performance. 
 
 ### Evaluation Criteria (100 points)
@@ -21,17 +19,17 @@ Students will develop a controller for a PX4-powered drone to efficiently search
 The assignment will be evaluated based on:
 - Total time taken to complete the mission
 - Total energy units consumed during operation
-- Accuracy of cylinder dimension estimates
-- Landing precision on the taller cylinder
-- Performance across multiple trials (10 known + 5 unknown scenes)
+- Accuracy of rover 3D model
+- Landing precision on rover
+- Performance across 3 trials
 
 ### Key Requirements
 
 - Autonomous takeoff and search strategy implementation
-- Real-time cylinder detection and dimension estimation
-- Energy-conscious path planning
-- Safe and precise landing on the target cylinder
-- Robust performance across different scenarios
+- Real-time rover detection 
+- Energy-conscious path planning for mapping using SLAM 
+- Safe and precise landing on the rover once mapping is complete
+- Robust performance across trials
 
 ## Prerequisites
 
