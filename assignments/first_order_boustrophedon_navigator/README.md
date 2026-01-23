@@ -140,6 +140,8 @@ Add these topics:
 - /turtle1/cmd_vel/angular/z
 - /cross_track_error
 
+<img width="1385" height="542" alt="image" src="https://github.com/user-attachments/assets/54e15cb9-f60a-48df-b337-2c9c4d54da77" />
+
 ## Evaluation Criteria
 
 1. Controller Performance (60%)
