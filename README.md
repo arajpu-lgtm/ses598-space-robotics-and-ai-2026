@@ -234,6 +234,28 @@ Repeat for each assignment as needed.
 - [Gazebo Documentation](https://gazebosim.org/docs)
 - [Underactuated Robotics (MIT)](https://underactuated.mit.edu/)
 
+### Recommended Books
+
+**Introduction to Linear Algebra (Fifth Edition)**
+- Author: Gilbert Strang
+- Essential foundations for understanding state estimation, control theory, and machine learning algorithms.
+
+**Optimal State Estimation: Kalman, H Infinity, and Nonlinear Approaches**
+- Author: Dan Simon
+- A comprehensive guide to state estimation techniques with practical applications in navigation and control systems.
+
+**Optimal Control and Estimation**
+- Author: Robert F. Stengel
+- A classic text bridging theory and practice in optimal control, estimation, and stochastic systems analysis.
+
+**Pattern Recognition and Machine Learning**
+- Author: Christopher M. Bishop
+- The definitive text on modern pattern recognition methods with a focus on Bayesian techniques and machine learning algorithms.
+
+**Multiple View Geometry in Computer Vision**
+- Authors: Richard Hartley and Andrew Zisserman
+- Essential resource for understanding geometric methods in computer vision and 3D reconstruction.
+
 ### Need Help?
 - **[Quick Start Guide](QUICK_START.md)** - Fast-track setup for each assignment
 - **[Troubleshooting Guide](TROUBLESHOOTING.md)** - Common issues and solutions

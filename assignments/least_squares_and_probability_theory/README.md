@@ -254,10 +254,20 @@ This connects probability theory to optimization.
 - [Matplotlib Gallery](https://matplotlib.org/stable/gallery/)
 - [SciPy Least Squares](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.least_squares.html)
 
-### Books (Optional)
-- Strang, G. "Introduction to Linear Algebra"
-- Kay, S. "Fundamentals of Statistical Signal Processing: Estimation Theory"
-- Szeliski, R. "Computer Vision: Algorithms and Applications" (Chapter on fitting)
+### Recommended Books
+
+**Introduction to Linear Algebra (Fifth Edition)**
+- Author: Gilbert Strang
+- A comprehensive guide to linear algebra fundamentals with clear explanations and practical applications.
+
+**Optimal State Estimation: Kalman, H Infinity, and Nonlinear Approaches**
+- Author: Dan Simon
+- A comprehensive guide to state estimation techniques with practical applications in navigation and control systems.
+
+**Pattern Recognition and Machine Learning**
+- Author: Christopher M. Bishop
+- The definitive text on modern pattern recognition methods with a focus on Bayesian techniques and machine learning algorithms.
+
 
 ## Frequently Asked Questions
 
