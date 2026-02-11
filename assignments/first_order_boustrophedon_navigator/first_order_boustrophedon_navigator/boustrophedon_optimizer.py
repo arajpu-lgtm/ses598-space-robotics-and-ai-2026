@@ -34,7 +34,7 @@ class BoustrophedonOptimizer(Node):
 
     def generate_waypoints(self):
         waypoints = []
-        y = 8.0
+        y = 0.0
         while y >= 3.0:
             if len(waypoints) % 2 == 0:
                 waypoints.append((2.0, y))
