@@ -1,0 +1,59 @@
+running egg_info
+creating build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info
+writing build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info/PKG-INFO
+writing dependency_links to build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info/dependency_links.txt
+writing entry points to build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info/entry_points.txt
+writing requirements to build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info/requires.txt
+writing top-level names to build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info/top_level.txt
+writing manifest file 'build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info/SOURCES.txt'
+reading manifest file 'build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info/SOURCES.txt'
+writing manifest file 'build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control
+copying cart_pole_optimal_control/state_republisher.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control
+copying cart_pole_optimal_control/force_visualizer.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control
+copying cart_pole_optimal_control/lqr_controller.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control
+copying cart_pole_optimal_control/optimzer.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control
+copying cart_pole_optimal_control/__init__.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control
+copying cart_pole_optimal_control/earthquake_force_generator.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control
+running install
+running install_lib
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control
+copying /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control/state_republisher.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control
+copying /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control/force_visualizer.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control
+copying /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control/lqr_controller.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control
+copying /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control/optimzer.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control
+copying /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control/__init__.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control
+copying /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/build/lib/cart_pole_optimal_control/earthquake_force_generator.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control
+byte-compiling /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control/state_republisher.py to state_republisher.cpython-310.pyc
+byte-compiling /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control/force_visualizer.py to force_visualizer.cpython-310.pyc
+byte-compiling /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control/lqr_controller.py to lqr_controller.cpython-310.pyc
+byte-compiling /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control/optimzer.py to optimzer.cpython-310.pyc
+byte-compiling /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control/__init__.py to __init__.cpython-310.pyc
+byte-compiling /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control/earthquake_force_generator.py to earthquake_force_generator.cpython-310.pyc
+running install_data
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/ament_index
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/ament_index/resource_index
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/ament_index/resource_index/packages
+copying resource/cart_pole_optimal_control -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/ament_index/resource_index/packages
+copying package.xml -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/launch
+copying launch/cart_pole_rviz.launch.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/launch
+copying launch/cart_pole.launch.py -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/launch
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/config
+copying config/cart_pole.rviz -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/config
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/models
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/models/cart_pole
+copying models/cart_pole/model.urdf -> /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/models/cart_pole
+creating /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/share/cart_pole_optimal_control/models/cart_pole/meshes
+running install_egg_info
+Copying build/cart_pole_optimal_control/cart_pole_optimal_control.egg-info to /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/python3.10/site-packages/cart_pole_optimal_control-0.0.1-py3.10.egg-info
+running install_scripts
+Installing earthquake_force_generator script to /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/cart_pole_optimal_control
+Installing force_visualizer script to /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/cart_pole_optimal_control
+Installing lqr_controller script to /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/cart_pole_optimal_control
+Installing state_republisher script to /root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install/cart_pole_optimal_control/lib/cart_pole_optimal_control
+writing list of installed files to '/root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/build/cart_pole_optimal_control/install.log'

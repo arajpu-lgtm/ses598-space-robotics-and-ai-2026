@@ -6,7 +6,7 @@
 # since a plain shell script can't determine its own path when being sourced
 # either use the provided COLCON_CURRENT_PREFIX
 # or fall back to the build time prefix (if it exists)
-_colcon_prefix_sh_COLCON_CURRENT_PREFIX="/home/jdas/RAS-SES-598-Space-Robotics-and-AI/assignments/inverted_pendulum_optimal_control/install"
+_colcon_prefix_sh_COLCON_CURRENT_PREFIX="/root/ses598-space-robotics-and-ai-2026/assignments/cart_pole_optimal_control/install"
 if [ -z "$COLCON_CURRENT_PREFIX" ]; then
   if [ ! -d "$_colcon_prefix_sh_COLCON_CURRENT_PREFIX" ]; then
     echo "The build time path \"$_colcon_prefix_sh_COLCON_CURRENT_PREFIX\" doesn't exist. Either source a script for a different shell or set the environment variable \"COLCON_CURRENT_PREFIX\" explicitly." 1>&2
